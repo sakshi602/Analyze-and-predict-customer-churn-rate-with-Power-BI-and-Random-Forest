@@ -123,10 +123,7 @@ Visual prediction data into Power BI
 </div>
 
 * 🔗 **Live Power BI Dashboard**: [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjM1MTk0NzUtNzdlNS00MDIwLTlkNTAtNWE1NjY4MDcxYmU5IiwidCI6IjA0NjRjNWRlLTQzNmItNDJjMi05NzQ4LTc0NTZmNWQzYTU2NCIsImMiOjEwfQ%3D%3D)
-# V. Project Resources
 
-* 📘 **Jupyter Notebook**:
-  [View full notebook here](https://github.com/cuongdaoo/Analyze-and-predict-customer-churn-rate-with-Power-BI-and-Random-Forest/blob/main/Churn_Analyst.ipynb)
 
-* 📑 **Detailed Analysis Report**:
-  [Access the full report here](https://github.com/cuongdaoo/Analyze-and-predict-customer-churn-rate-with-Power-BI-and-Random-Forest/blob/main/Analysis.md)
+
+
